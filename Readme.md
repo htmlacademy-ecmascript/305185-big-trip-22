@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Nikita Shumakov](https://up.htmlacademy.ru/ecmascript/22/user/305185).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Андреев](https://htmlacademy.ru/profile/id812127).
 
 ---
 
